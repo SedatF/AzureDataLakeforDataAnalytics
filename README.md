@@ -49,7 +49,7 @@ The goal of this project is to develop a data lake solution using Azure Databric
 
 Below is our star schema:
 
-<img src="screenshots/bikeshare_star_schema.png" alt="star model">
+<img src="screenshots/Star_Diagram.jpg" alt="star model">
 
 ## Task 2: Import the data into Azure Databricks using Delta Lake to create a Bronze data store
 
