@@ -60,7 +60,7 @@ Below is our star schema:
 <img src="screenshots/2_Cluster.jpg" alt="databrick">
 
 3. Import data to DBFS path <b>/FileStore/tables/</b>
-<img src="screenshots/DBFS_Step1.png" alt="Dbfs">
+<img src="screenshots/DBFS.jpg" alt="Dbfs">
 
 
 ## Task 3:  Create a gold data store in Delta Lake tables by using Databricks Python notebook
