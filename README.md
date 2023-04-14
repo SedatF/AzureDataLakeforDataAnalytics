@@ -66,7 +66,7 @@ Below is our star schema:
 ## Task 3:  Create a gold data store in Delta Lake tables by using Databricks Python notebook
 
 4 tables already loaded in hive_metastore default schema:
-<img src="screenshots/delta_table_loaded.jpg" alt="delta table">
+<img src="screenshots/data_table_loaded.jpg" alt="delta table">
 
 ## Task 4: Transform Delta source tables into designed star schema (dim/fact tables)
 
